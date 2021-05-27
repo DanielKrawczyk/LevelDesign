@@ -1,6 +1,11 @@
 # Level Design
 
 Galeria wszystkich moich tworów związanych z level-designem. 
+
+![Gothic 2 Screenshot 2021 05 23 - 15 19 15 87](https://user-images.githubusercontent.com/80767727/119865638-2a9f3b00-bf1c-11eb-9c45-68f3abf1b1e7.png)
+![Gothic 2 Screenshot 2021 05 23 - 15 17 38 91](https://user-images.githubusercontent.com/80767727/119865683-3854c080-bf1c-11eb-81b4-b97145ea72fb.png)
+![Gothic 2 Screenshot 2021 05 23 - 15 14 59 18](https://user-images.githubusercontent.com/80767727/119865755-499dcd00-bf1c-11eb-980d-ac2c34351046.png)
+![Gothic 2 Screenshot 2021 05 23 - 15 15 41 77](https://user-images.githubusercontent.com/80767727/119865730-43a7ec00-bf1c-11eb-85b4-b331ebdd5d64.png)
 ![Gothic 2 Screenshot 2021 04 29 - 12 57 04 95](https://user-images.githubusercontent.com/80767727/116542382-e2750480-a8ec-11eb-8048-4a53af47394d.png)
 ![Gothic 2 Screenshot 2021 04 29 - 12 57 22 31](https://user-images.githubusercontent.com/80767727/116542475-f6206b00-a8ec-11eb-981e-14e9ad619cf1.png)
 ![Gothic 2 Screenshot 2021 04 29 - 12 57 33 63](https://user-images.githubusercontent.com/80767727/116542484-f882c500-a8ec-11eb-9aff-b7922994a81a.png)
